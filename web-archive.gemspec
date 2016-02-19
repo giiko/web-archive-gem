@@ -1,14 +1,14 @@
 lib = File.expand_path("../lib", __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'web_archive/version'
+require 'web-archive/version'
 
 Gem::Specification.new do |spec|
-  spec.name          = "web_archive"
+  spec.name          = "web-archive"
   spec.version       = WebArchive::VERSION
   spec.authors       = ["giiko"]
   spec.email         = [""]
   spec.summary       = "Util for web.archive.org"
-  spec.homepage      = "https://github.com/giiko/web_archive"
+  spec.homepage      = "https://github.com/giiko/web-archive"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")

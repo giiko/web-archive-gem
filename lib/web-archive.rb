@@ -1,4 +1,4 @@
-require "web_archive/version"
+require "web-archive/version"
 require "open-uri"
 
 module WebArchive

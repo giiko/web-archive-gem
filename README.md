@@ -3,22 +3,9 @@
 - Archive target url
 - Get archived url of target url
 
-
-## Installation
-
-Add this line to your application's Gemfile:
-
-```ruby
-gem 'web_archive'
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install web_archive
+$ gem i web-archive
+```
 
 ## Example
 

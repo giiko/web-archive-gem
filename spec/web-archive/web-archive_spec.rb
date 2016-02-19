@@ -1,5 +1,5 @@
 require 'spec_helper'
-require 'web_archive'
+require 'web-archive'
 
 class String
   def uri?
