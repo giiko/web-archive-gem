@@ -16,8 +16,3 @@ WebArchive.latest(target_url) #=> url string or nil
 WebArchive.oldest(target_url) #=> url string or nil
 ```
 
-
-## Contributing
-
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/web_archive.
-
